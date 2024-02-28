@@ -1,0 +1,68 @@
+.cars {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  margin: 10rem 0;
+  margin-top: 20rem;
+  h1 {
+    font-size: 4rem;
+    color: black;
+    letter-spacing: 1rem;
+    font-weight: 500;
+  }
+  .cars-in {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    .cardiv {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+
+      .divimg {
+        width: 20rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 20rem;
+        img {
+          width: 100%;
+          border-radius: 0.3rem;
+          object-fit: cover;
+          transition: all 0.7s ease-out;
+          cursor: pointer;
+        }
+
+        img:hover {
+          transform: scale(1.2);
+        }
+      }
+
+      h3 {
+        font-size: 2rem;
+      }
+      h2 {
+        font-size: 1.6rem;
+        font-weight: 600;
+        margin: 0;
+      }
+      font-size: 1.4rem;
+    }
+  }
+}
+@media(max-width:800px){
+  .cars{
+    h1{
+      font-size: 3rem;
+      letter-spacing: .7rem;
+    }
+    .cars-in{
+      gap: 8rem;
+    }
+  }
+}

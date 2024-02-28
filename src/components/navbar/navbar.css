@@ -1,0 +1,222 @@
+.navbar {
+  width: 100%;
+  background-color: black;
+  height: 22rem;
+  display: flex;
+  justify-content: center;
+}
+.navbar .navbar-in {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 130rem;
+  width: 100%;
+  height: 100%;
+  padding: 0 2rem;
+}
+.navbar .navbar-in .navbar-left img {
+  width: 20rem;
+}
+.navbar .navbar-in .navbar-right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+}
+.navbar .navbar-in .navbar-right .right-top {
+  display: flex;
+  gap: 5rem;
+}
+.navbar .navbar-in .navbar-right .right-top a {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #ef4646;
+  text-decoration: none;
+  font-size: 2rem;
+}
+.navbar .navbar-in .navbar-right .right-top .instagramicon {
+  color: white;
+}
+.navbar .navbar-in .navbar-right .right-top .tiktokicon {
+  color: white;
+}
+.navbar .navbar-in .navbar-right .right-top .callicon {
+  color: white;
+}
+.navbar .navbar-in .navbar-right .right-top .instagram, .navbar .navbar-in .navbar-right .right-top .tiktok, .navbar .navbar-in .navbar-right .right-top .elaqe {
+  color: #ef4646;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.navbar .navbar-in .navbar-right .right-bottom h1 {
+  font-size: 2.5rem;
+  margin: 0;
+  color: white;
+}
+.navbar .navbar-in .navbar-right .right-bottom h1 span {
+  color: #ef4646;
+}
+
+@media (max-width: 1400px) {
+  .navbar .navbar-in {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100rem;
+    width: 100%;
+    height: 100%;
+    padding: 0 2rem;
+  }
+  .navbar .navbar-in .navbar-left img {
+    width: 20rem;
+  }
+  .navbar .navbar-in .navbar-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top {
+    display: flex;
+    gap: 5rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: #ef4646;
+    text-decoration: none;
+    font-size: 1.8rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top .instagramicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .tiktokicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .callicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .instagram, .navbar .navbar-in .navbar-right .right-top .tiktok, .navbar .navbar-in .navbar-right .right-top .elaqe {
+    color: #ef4646;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .navbar .navbar-in .navbar-right .right-bottom h1 {
+    font-size: 2.2rem;
+    margin: 0;
+    color: white;
+  }
+}
+@media (max-width: 930px) {
+  .navbar .navbar-in {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100rem;
+    width: 100%;
+    height: 100%;
+    padding: 0 2rem;
+  }
+  .navbar .navbar-in .navbar-left img {
+    width: 20rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top {
+    display: flex;
+    gap: 3rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: #ef4646;
+    text-decoration: none;
+    font-size: 1.8rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top .instagramicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .tiktokicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .callicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .instagram, .navbar .navbar-in .navbar-right .right-top .tiktok, .navbar .navbar-in .navbar-right .right-top .elaqe {
+    color: #ef4646;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .navbar .navbar-in .navbar-right .right-bottom {
+    max-width: 50rem;
+    text-align: center;
+  }
+  .navbar .navbar-in .navbar-right .right-bottom h1 {
+    font-size: 2.2rem;
+    margin: 0;
+    color: white;
+  }
+}
+@media (max-width: 750px) {
+  .navbar {
+    height: 37rem;
+  }
+  .navbar .navbar-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100rem;
+    width: 100%;
+    height: 100%;
+    padding: 0 2rem;
+    gap: 2rem;
+  }
+  .navbar .navbar-in .navbar-left img {
+    width: 17rem;
+  }
+  .navbar .navbar-in .navbar-right {
+    flex-direction: column-reverse;
+  }
+  .navbar .navbar-in .navbar-right .right-top {
+    display: flex;
+    gap: 2rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    color: #ef4646;
+    text-decoration: none;
+    font-size: 1.6rem;
+  }
+  .navbar .navbar-in .navbar-right .right-top .instagramicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .tiktokicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .callicon {
+    color: white;
+  }
+  .navbar .navbar-in .navbar-right .right-top .instagram, .navbar .navbar-in .navbar-right .right-top .tiktok, .navbar .navbar-in .navbar-right .right-top .elaqe {
+    color: #ef4646;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .navbar .navbar-in .navbar-right .right-bottom {
+    max-width: 30rem;
+    text-align: center;
+  }
+  .navbar .navbar-in .navbar-right .right-bottom h1 {
+    font-size: 2rem;
+    margin: 0;
+    color: white;
+  }
+}/*# sourceMappingURL=navbar.css.map */

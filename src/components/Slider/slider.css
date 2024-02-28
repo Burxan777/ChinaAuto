@@ -1,0 +1,18 @@
+
+.slider img {
+    
+    max-height: 55rem;
+    position: relative;
+    object-fit: cover;
+}
+@media(max-width:900px){
+    
+.slider img {
+    
+  
+   height: 30rem;
+}
+}
+
+
+

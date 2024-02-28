@@ -1,0 +1,138 @@
+{
+  "avtochina": [
+    {
+      "id": 1,
+      "marka": "Changan",
+      "Model": "V5",
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135352/alsvin-red-car3_wrnpxe.png"
+    },
+    {
+      "id": 2,
+      "marka": "GWM",
+      "Model": "Wingle 7",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135344/5_moambd.webp"
+    },
+    {
+      "id": 3,
+      "marka": "Changan",
+      "Model": "Uni K",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709137538/changan_uni_k_i_offroad_5d_1_agmaq1.jpg"
+    },
+    {
+      "id": 4,
+      "marka": "Changan",
+      "Model": "Uni V",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135340/dqkfp6ph9gz5shc5d3c1vvnwvlp5xidb-Y4LlwJRx5QUGBxKl_bn4ndr.jpg"
+    },
+
+    {
+      "id": 5,
+      "marka": "Changan",
+      "Model": "F 70",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135340/da7cc037a20116f6416a488ea74bcd61_nfktvk.jpg"
+    },
+    {
+      "id": 6,
+      "marka": "GWM",
+      "Model": "M2",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136680/Great-Wall_Haval_M2_2012_1000_0001-removebg-preview_zybfzv.png"
+    },
+    {
+      "id": 7,
+      "marka": "HAVAL",
+      "Model": "H9",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136680/Great-Wall_Haval_H9_2014_600_0006-removebg-preview_h6trij.png"
+    },
+    {
+      "id": 8,
+      "marka": "HAVAL",
+      "Model": "H6 NEW",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136679/Great-Wall_Haval_H6_2019_1000_0001-removebg-preview_fhbjmq.png"
+    },
+    {
+      "id": 9,
+      "marka": "HAVAL",
+      "Model": "H2",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136679/Great-Wall_Haval_H2_2014_1000_0001-removebg-preview_el1od6.png"
+    },
+    {
+      "id": 10,
+      "marka": "GWM",
+      "Model": "H6",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136679/Great-Wall_Haval_H6_2013_1000_0001-removebg-preview_zun2yc.png"
+    },
+    {
+      "id": 11,
+      "marka": "Changan",
+      "Model": "EADO",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136677/changan_eado_1280x1024-removebg-preview_rmffbx.png"
+    },
+    {
+      "id": 12,
+      "marka": "GWM",
+      "Model": "VOLEX C30",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136676/Great-Wall_Voleex_C30_2010_1000_0001-removebg-preview_fdbgro.png"
+    },
+    {
+      "id": 13,
+      "marka": "Changan",
+      "Model": "CS 35",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136676/mobile_listing_main_01-removebg-preview_ol6nii.png"
+    },
+    {
+      "id": 14,
+      "marka": "GWM",
+      "Model": "Wingle 5",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135348/wingle-6_x9qfvt.jpg"
+    },
+    {
+      "id": 15,
+      "marka": "GWM",
+      "Model": "H3",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136676/Great-Wall_Hover_H3_2014_1000_0001-removebg-preview_tmpup3.png"
+    },
+    {
+      "id": 16,
+      "marka": "GWM",
+      "Model": "M2",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709136675/Great-Wall_Haval_M4_2013_1000_0001-removebg-preview_grqjlk.png"
+    },
+    {
+      "id": 17,
+      "marka": "GWM",
+      "Model": "H5",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135342/haval3_3_lb2lb8.jpg"
+    },
+    {
+      "id": 18,
+      "marka": "GWM",
+      "Model": "Wingle 5",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135341/Great-Wall-wingle-5-portada-1_kezf1k.png"
+    },
+
+    {
+      "id": 19,
+      "marka": "Changan",
+      "Model": "CX 20",
+
+      "blogimg": "https://res.cloudinary.com/dzhozzyba/image/upload/v1709135347/zftp2uhr_qwr6ii.png"
+    }
+  ]
+}
